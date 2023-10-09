@@ -42,6 +42,7 @@ h2{
     line-height: normal;
     letter-spacing: 0.64px;
     text-align: left;
+    margin-bottom: 0;
 }
 
 h3{
@@ -139,9 +140,7 @@ h5{
 }
 
 
-p{
-    color: #FFF;
-}
+
 
 .p0{
     color: #8D8D8D;
@@ -152,6 +151,10 @@ p{
     line-height: normal;
     letter-spacing: 0.32px;
     text-align: left;
+    margin-bottom:0;
+    margin : 0; 
+    padding-top: 0;
+    margin-top: 0;
 }
 
 
@@ -174,22 +177,24 @@ svg{
 
 .nn{
     border: none;
-    border-width: auto;
     outline: none;
+    width: 400px;
 }
 
 .ee{
     border: none;
     outline: none;
+    width: 400px;
 }
 
 .pp{
     border: none;
     outline: none;
+    width: 400px;
 }
 
 .bott{
-    margin-top: 7em;
+    margin-top: 10em;
     text-align: center;
 }
 
@@ -197,4 +202,7 @@ svg{
     text-align: left;
 }
 
-
+.p2 {
+    margin-left: 1em;
+   
+}
